@@ -11,6 +11,8 @@ fields:
   config:
     date_format: MM/DD/YYYY
     export_format: YYYY-MM-DD
+    required: true
+  default: now
 - type: file
   name: bg_image
   label: bg image
