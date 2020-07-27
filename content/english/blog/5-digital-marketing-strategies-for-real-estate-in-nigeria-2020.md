@@ -2,7 +2,7 @@
 author = ""
 bg_image = "/images/dead-sea-clay_287b688b-fa6e-46cf-a52c-a49c981b6b18_1024x1024.webp"
 categories = []
-date = 2020-07-26T22:00:00Z
+date = 2020-07-26T23:00:00Z
 description = ""
 image = "/images/dermalogicasa_20200715_113505_0.jpg"
 tags = []
