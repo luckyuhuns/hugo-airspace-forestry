@@ -12,12 +12,12 @@ type = "post"
 +++
 Bacon ipsum dolor amet meatball short ribs spare ribs shank flank frankfurter chislic. Shankle cupim jerky pancetta porchetta shoulder
 
- shank. Alcatra tenderloin ham hock, filet mignon flank sausage chicken pork picanha. Biltong pork kevin cupim chislic pancetta 
+shank. Alcatra tenderloin ham hock, filet mignon flank sausage chicken pork picanha. Biltong pork kevin cupim chislic pancetta
 
-### pastrami beef drumstick sausage 
+### pastrami beef drumstick sausage
 
-ground round kielbasa beef ribs doner leberkas. Porchetta tenderloin leberkas short loin turkey. Capicola ground round short loin, short ribs shank filet mignon pork belly doner ham hock cupim meatball bresaola.
+ground ound kielbasa beef ribs doner leberkas. Porchetta tenderloin leberkas short loin turkey. Capicola ground round short loin, short ribs shank filet mignon pork belly doner ham hock cupim meatball bresaola.
 
-> Drumstick chislic beef ribs sausage, shank porchetta salami jowl short ribs corned beef pig. Chislic pork chop pork loin pancetta bresaola. Beef ribs ribeye tri-tip pork loin leberkas ham picanha 
+> Drumstick chislic beef ribs sausage, shank porchetta salami jowl short ribs corned beef pig. Chislic pork chop pork loin pancetta bresaola. Beef ribs ribeye tri-tip pork loin leberkas ham picanha
 
 ![](/images/teams/team-3.jpg)
