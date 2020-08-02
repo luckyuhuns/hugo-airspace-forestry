@@ -60,10 +60,6 @@ URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
