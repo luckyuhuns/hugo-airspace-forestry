@@ -56,14 +56,14 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "Lucky Uhuns"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "uhunslucky@gmail.com"
 google_analitycs_id = "Your ID"
-location = "North Main Street,Brooklyn Australia"
+location = "Corporation drive, dolphin estate, ikoyi, Lagos."
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "+2348169627988"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
