@@ -6,9 +6,9 @@ social:
 - icon: ion-social-facebook-outline
   link: https://facebook.com/luckyuhuns
 - icon: ion-social-twitter-outline
-  link: "#"
-- icon: ion-social-pinterest-outline
-  link: "#"
+  link: https://twitter.com/luckyuhuns
+- icon: ion-social-instagram-outline
+  link: https://instagram.com/luckyuhuns
 image: "/images/00100sportrait_00100_burst20200106174319907_cover-2-2.jpg"
 
 ---
