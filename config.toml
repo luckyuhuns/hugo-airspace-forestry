@@ -57,7 +57,7 @@ name = "Contact"
 weight = 6
 [params]
 author = "Lucky Uhuns"
-contact_form_action = "#"
+contact_form_action = "uhunslucky@gmail.com"
 description = "This is meta description"
 email = "uhunslucky@gmail.com"
 google_analitycs_id = "Your ID"
