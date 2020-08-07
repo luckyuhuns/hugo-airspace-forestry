@@ -12,4 +12,4 @@ social:
 image: "/images/00100sportrait_00100_burst20200806162906780_cover-01-2.jpeg"
 
 ---
-Lucky 
+Lucky is erudite by nature and a pro digital marketer by design. He has some 5+ years of experience creating visual content and building the perfect websites for niche industries using both popular and emerging platforms. When he is not working behind a desk, he is on a hiking trip up a historical mountain or locked up indoors, planning to take over the world.
