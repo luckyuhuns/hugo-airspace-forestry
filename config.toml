@@ -1,6 +1,6 @@
 baseURL = "https://luckyuhuns.com/"
 disableLanguages = ["Fr"]
-disqusShortname = ""
+disqusShortname = "marketing-ot"
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
