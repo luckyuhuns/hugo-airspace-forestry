@@ -1,6 +1,6 @@
 ---
-title: À propos
-description: this is meta description
+title: À promise
+description: hello people maricana
 bg_image: images/featue-bg.jpg
 
 ---
