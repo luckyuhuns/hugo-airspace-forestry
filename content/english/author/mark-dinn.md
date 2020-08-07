@@ -9,8 +9,7 @@ social:
   link: https://twitter.com/luckyuhuns
 - icon: ion-social-instagram-outline
   link: https://instagram.com/luckyuhuns
-image: "/images/00100sportrait_00100_burst20200106174319907_cover-2-2.jpg"
+image: "/images/00100sportrait_00100_burst20200806162906780_cover-01-2.jpeg"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Lucky 
