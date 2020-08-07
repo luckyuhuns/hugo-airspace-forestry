@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "Lucky Uhuns"
 bg_image = "/images/portfolio/work2.jpg"
-categories = []
+categories = ["Web Design"]
 date = 2020-08-07T00:00:00Z
 description = ""
 image = "/images/wrapper-img.png"
