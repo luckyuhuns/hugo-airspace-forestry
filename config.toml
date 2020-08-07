@@ -62,7 +62,7 @@ description = "This is meta description"
 email = "uhunslucky@gmail.com"
 google_analitycs_id = "Your ID"
 location = "Corporation drive, dolphin estate, ikoyi, Lagos."
-logo = "images/logo.png"
+logo = "/images/logo_all_black.png"
 mobile = "+2348169627988"
 [params.gmap]
 enable = true
