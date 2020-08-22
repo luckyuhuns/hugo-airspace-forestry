@@ -20,6 +20,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "https://www.luckyuhuns.com/blog/"
+name = "Blog"
+weight = ""
+[[menu.footer]]
 URL = "about"
 name = "About"
 weight = 1
