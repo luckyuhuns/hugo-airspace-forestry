@@ -7,7 +7,7 @@ banner:
     a website that creatively tells the brand's story.
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover My Project
     link: project
 about:
   enable: true
@@ -31,7 +31,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
+  title: I BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
@@ -54,7 +54,7 @@ cta:
     The work and results <br> I've achieved for other clients.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Tell Me Your Story
     link: contact
 funfacts:
   enable: true
