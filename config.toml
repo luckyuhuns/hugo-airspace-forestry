@@ -24,10 +24,6 @@ URL = "https://www.luckyuhuns.com/blog/"
 name = "Blog"
 weight = ""
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
 URL = "project"
 name = "Project"
 weight = 2
