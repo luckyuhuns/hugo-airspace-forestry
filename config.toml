@@ -14,7 +14,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Lucky Uhuns](https://luckyuhuns.com) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
