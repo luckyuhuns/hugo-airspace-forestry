@@ -12,15 +12,16 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Here are some important statistics that might interest you. 80% of people
+  description: I teach individuals, business owners how to build mobile responsive
+    and search engine optimized websites that tells brands story accurately. For those
+    that feels "nah... web design ain't for me", I build high converting custom websites
+    for individuals and businesses.
+  content: "Here are some important statistics that might interest you. 80% of people
     who search for local businesses on their mobile phones will either call or go
-    to that business within 24hours, also 50.48% of web traffic comes from mobile.
-    So it's not just having an online presence that matters, but having a mobile responsive
-    site that is user friendly and accessible to search engine bots that makes the
-    difference in achieving a brand's online goals or not.
+    to that business within 24hours. Also 50.48% of web traffic came from mobile in
+    2020. \nSo it's not just having an online presence that matters, but having a
+    mobile responsive site that is user friendly and accessible to search engine bots
+    that makes the difference in achieving a brand's online goals or not."
   image: images/web.jpg
   button:
     label: Learn More
