@@ -15,13 +15,17 @@ about:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: Here are some important statistics that might interest you. 80% of people
+    who search for local businesses on their mobile phones will either call or go
+    to that business within 24hours, also 50.48% of web traffic comes from mobile.
+    So it's not just having an online presence that matters, but having a mobile responsive
+    site that is user friendly and accessible to search engine bots that makes the
+    difference in achieving a brand's online goals or not.
   image: images/web.jpg
+  button:
+    label: Learn More
+    enable: true
+    link: https://www.luckyuhuns.com/about/
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
