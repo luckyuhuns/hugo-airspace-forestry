@@ -27,6 +27,7 @@ about:
     label: Learn More
     enable: true
     link: https://www.luckyuhuns.com/about/
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
@@ -49,9 +50,8 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  content: Read more about what i do and my philosophy of design. Judge for yourself
+    The work and results <br> I've achieved for other clients.
   button:
     enable: true
     label: Tell Us Your Story
