@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: this is meta description
+description: Web design tutorials
 bg_image: images/featue-bg.jpg
 
 ---
