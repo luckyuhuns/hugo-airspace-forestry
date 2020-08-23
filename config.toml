@@ -40,6 +40,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
+URL = "https://www.luckyuhuns.com/service/"
+name = "Services"
+weight = ""
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
