@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Lucky Uhuns"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Lucky Uhuns](https://luckyuhuns.com) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
