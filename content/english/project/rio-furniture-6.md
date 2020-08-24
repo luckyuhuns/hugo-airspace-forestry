@@ -1,5 +1,5 @@
 ---
-title: Rio Furniture
+title: Sleep Solutions Website
 description: this is meta description
 image: images/portfolio/work6.jpg
 bg_image: "/images/animated-gif-downsized_sleepsol.gif"
