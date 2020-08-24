@@ -2,7 +2,7 @@
 title: Sleep Solutions Website
 description: this is meta description
 image: images/portfolio/work6.jpg
-bg_image: "/images/animated-gif-downsized_sleepsol.gif"
+bg_image: "/images/web.jpg"
 category: Video
 information:
 - label: Client
