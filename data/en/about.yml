@@ -33,10 +33,10 @@ about:
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: "349"
+    count: 349+
   - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
+    name: hours of work
+    count: "3000"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
