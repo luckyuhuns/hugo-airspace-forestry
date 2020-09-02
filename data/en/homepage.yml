@@ -11,7 +11,7 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
+  title: About Lucky
   description: I teach individuals, business owners how to build mobile responsive
     and search engine optimized websites that tells brands story accurately. For those
     that feels "nah... web design ain't for me", I build high converting custom websites
@@ -32,14 +32,16 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: I BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: "I teach individuals, business owners how to build mobile responsive and
+    search engine optimized websites that tells brands story accurately. \n\nFor those
+    that feels \"nah... web design ain't for me\", I build high converting custom
+    websites for individuals and businesses too.\n\nHere are some important statistics
+    that might interest you. 80% of people who search for local businesses on their
+    mobile phones will either call or go to that business within 24hours. Also 50.48%
+    of web traffic came from mobile in 2020. \n\nSo it's not just about having a website,
+    but having a website Mobile and desktop responsive, user friendly to humans, and
+    accessible to search engine bots. \n\nThese are what makes the difference between
+    an awesome site and a shabby one."
   button:
     enable: true
     label: View Works
