@@ -7,7 +7,7 @@ banner:
     a website that creatively tells their brand's story.
   button:
     enable: true
-    label: Discover My Project
+    label: Discover My Projects
     link: project
 about:
   enable: true
