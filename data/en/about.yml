@@ -32,19 +32,7 @@ about:
     enable: true
     label: Get in Touch
     link: https://www.luckyuhuns.com/contact/
-  funfacts:
-  - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
-  - icon: ion-ios-flame-outline
-    name: hours of work
-    count: "3000"
-  - icon: ion-ios-pint-outline
-    name: Satisfied Clients
-    count: "70"
-  - icon: ion-ios-chatboxes-outline
-    name: Cups of Coffee
-    count: "300"
+  funfacts: []
 features:
   enable: false
   title: We are indepented Design & Development Agency
