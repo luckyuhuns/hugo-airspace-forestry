@@ -1,6 +1,6 @@
 ---
 title: 'About '
-description: ''
-bg_image: images/featue-bg.jpg
+description: Why i am so passionate in what i do
+bg_image: "/images/kez.jpg"
 
 ---
