@@ -107,7 +107,7 @@ icon = "ion-social-youtube-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-instagram-outline"
-link = "#"
+link = "https://www.instagram.com/luckyuhuns"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#"
