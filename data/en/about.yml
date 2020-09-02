@@ -28,8 +28,8 @@ about:
     with better mobile user experience higher.\n"
   button:
     enable: true
-    label: Download Company Profile
-    link: "#"
+    label: Get in Touch
+    link: https://www.luckyuhuns.com/contact/
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
