@@ -5,27 +5,29 @@ about:
   title: Hi, I'm Licky Uhuns, I strive to <br> make awesome work.
   content: "I started out as an all-round digital marketer, and then niched down to
     web design as I allot of my clients weren't just satisfied with just engaging
-    with their prospects on social media. They wanted to do more. They wanted to portray
-    a more professional image of their brand. They wanted popup forms to collect contacts,
-    wanted to sell online, they wanted a blog (they've heard content marketing is
-    the future marketing), they wanted to send out newsletters too as the big brands
-    do. in all,  they wanted a home where all their marketing efforts will converge.
-    \n\nHaving racked up a good amount of years in digital designs, with a good eye
-    for layout, colour, & typography. I regularly saw a disconnect between the mobile
-    and desktop versions of websites. \nOn a desktop screen, the website looks great,
-    enough space, text can breath and colours pop. whereas on mobile everything looks
-    out of sync. Images, text, shapes are all over the place.\n\nWhatever was the
-    cause, it posed a problem for those business/organisation because global mobile
-    adoption in recent times has been on an upward trajectory. more people browse
-    the web (53%) on their phone. especially in developing countries.\nSo the majority
-    of the traffic to these business websites were most likely coming from mobile.
-    But their bad mobile user experience was definitely costing them a good amount
-    of business.\n\nDue to the short attention span of web users now, a visitors will
-    hit the back button the minute they are finding it difficult to navigate a website
-    with a poor layout or if they can't find important pages (like Contact page).
-    This also has implications on the website's search engine ranking. Google bots,
-    after crawling numerous webpages that match a search query, will rank webpages
-    with better mobile user experience higher.\n"
+    with their prospects on social media. They wanted to do more. \n\nThey wanted
+    to portray a more professional image of their brand. They wanted popup forms to
+    collect leads, they wanted to sell online, they wanted a blog (they've heard content
+    marketing is the future marketing), they wanted to send out newsletters too as
+    the big brands do. in all,  they wanted a home where all their marketing efforts
+    will converge. \n\nHaving racked up a good amount of years in digital designs,
+    with a good eye for layout, colour, & typography. I regularly saw a disconnect
+    between the mobile and desktop versions of most of my client's new websites. \n\nOn
+    a desktop screen, the website looks great, enough space, text can breath and colours
+    pop. whereas on mobile everything looks out of sync. Images, text, shapes are
+    all over the place.\n\nWhatever was the cause, it posed a problem for those business/organisation
+    because global mobile adoption in recent times has been on an upward trajectory.
+    more people browse the web (53%) on their phone. especially in developing countries.\n\nSo
+    the majority of the traffic to these business websites were most likely coming
+    from mobile. But their bad mobile user experience was definitely costing them
+    a good amount of business.\n\nDue to the short attention span of web users now,
+    a visitors will hit the back button the minute they are finding it difficult to
+    navigate a website with a poor layout or if they can't find important pages (like
+    Contact page). \n\nThis also has implications on the website's search engine ranking.
+    Google bots, after crawling numerous webpages that match a search query, will
+    rank webpages with better mobile user experience higher.\n\nThis gap in the industry
+    prompted me to delve into web design. \nNow teach and help businesses build beautiful,
+    mobile first, and search engine friendly websites."
   button:
     enable: true
     label: Get in Touch
@@ -33,22 +35,16 @@ about:
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
-    count: 349+
+    count: "349"
   - icon: ion-ios-flame-outline
     name: hours of work
     count: "3000"
   - icon: ion-ios-pint-outline
-    name: Satisfied Customer
+    name: Satisfied Clients
     count: "70"
-  - icon: ion-ios-wineglass-outline
-    name: Awards Winner
-    count: "10"
   - icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-    count: "75"
-  - icon: ion-ios-body-outline
-    name: Awards Winner
-    count: "20"
+    name: Cups of Coffee
+    count: "300"
 features:
   enable: false
   title: We are indepented Design & Development Agency
