@@ -54,7 +54,7 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: I design delightful digital experiences.
-  content: Read more about what i do and my philosophy of design. Judge for yourself
+  content: Learn more about what i do and my philosophy of design. Judge for yourself
     The work and results <br> I've achieved for other clients.
   button:
     enable: true
