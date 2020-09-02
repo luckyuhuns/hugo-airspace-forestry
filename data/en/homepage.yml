@@ -72,8 +72,8 @@ funfacts:
     name: Projects Completed
     count: "55"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Hours of design
+    count: "10000"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
