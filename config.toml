@@ -101,7 +101,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/in/lucky-uhunmwangho-0524a4110"
 [[params.social]]
 icon = "ion-social-youtube-outline"
 link = "#"
