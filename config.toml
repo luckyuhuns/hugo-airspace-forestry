@@ -44,10 +44,6 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
