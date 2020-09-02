@@ -3,19 +3,18 @@ about:
   enable: true
   image: images/profile.jpg
   title: Hi, I'm Licky Uhuns, I strive to <br> make awesome work.
-  content: "I started out as an all-round digital marketer, and then niched down to
-    web design as I allot of my clients weren't just satisfied with just engaging
-    with their prospects on social media. They wanted to do more. \n\nThey wanted
-    to portray a more professional image of their brand. They wanted popup forms to
-    collect leads, they wanted to sell online, they wanted a blog (they've heard content
-    marketing is the future marketing), they wanted to send out newsletters too as
-    the big brands do. in all,  they wanted a home where all their marketing efforts
-    will converge. \n\nHaving racked up a good amount of years in digital designs,
-    with a good eye for layout, colour, & typography. I regularly saw a disconnect
-    between the mobile and desktop versions of most of my client's new websites. \n\nOn
-    a desktop screen, the website looks great, enough space, text can breath and colours
-    pop. whereas on mobile everything looks out of sync. Images, text, shapes are
-    all over the place.\n\nWhatever was the cause, it posed a problem for those business/organisation
+  content: "I started out as a graphic designer, and then transitioned to web design
+    when i noticed allot of my clients wanted more than an engaging social media post.\n\nThey
+    wanted their business to look more professional. They wanted popup forms to collect
+    leads, they wanted to sell online, they wanted a blog (they've heard content marketing
+    is the future marketing), they wanted to send out newsletters too as the big brands
+    do. in all,  they wanted a home where all their marketing efforts will converge.
+    \n\nHaving racked up a good amount of years in digital designs, with a good eye
+    for layout, colour, & typography. I regularly saw a disconnect between the mobile
+    and desktop versions of most of my client's new websites. \n\nOn a desktop screen,
+    the website looks great, enough space, text can breath and colours pop. whereas
+    on mobile everything looks out of sync. Images, text, shapes are all over the
+    place.\n\nWhatever was the cause, it posed a problem for those business/organisation
     because global mobile adoption in recent times has been on an upward trajectory.
     more people browse the web (53%) on their phone. especially in developing countries.\n\nSo
     the majority of the traffic to these business websites were most likely coming
@@ -25,9 +24,10 @@ about:
     navigate a website with a poor layout or if they can't find important pages (like
     Contact page). \n\nThis also has implications on the website's search engine ranking.
     Google bots, after crawling numerous webpages that match a search query, will
-    rank webpages with better mobile user experience higher.\n\nThis gap in the industry
-    prompted me to delve into web design. \nNow teach and help businesses build beautiful,
-    mobile first, and search engine friendly websites."
+    rank webpages with better mobile user experience higher.\n\nMy passion for design
+    and the urge to solve a problem drew me into web design. \nNow teach individuals
+    and help businesses build beautiful, mobile first, and search engine friendly
+    websites."
   button:
     enable: true
     label: Get in Touch
