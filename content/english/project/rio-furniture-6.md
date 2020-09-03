@@ -1,6 +1,6 @@
 ---
-title: Sleep Solutions Website
-description: this is meta description
+title: 'Sleep Solutions '
+description: Website Design
 image: "/images/sleepsol_homepage2.JPG"
 bg_image: images/featue-bg.jpg
 category: image
