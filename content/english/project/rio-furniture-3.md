@@ -3,7 +3,7 @@ title: Blossom School
 description: Website Design
 image: "/images/home_page.JPG"
 bg_image: images/featue-bg.jpg
-category: Image
+category: Web Design
 information:
 - label: Client
   info: Blossom School
