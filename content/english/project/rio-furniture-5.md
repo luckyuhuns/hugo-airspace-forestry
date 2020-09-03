@@ -17,7 +17,6 @@ information:
   info: HTML5 / PHP / CSS3
 - label: Client
   info: Jannie Kelonsky
-draft: true
 
 ---
 ## Behance Website Redesign
