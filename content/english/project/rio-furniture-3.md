@@ -20,4 +20,4 @@ images:
 - "/images/home_page2.JPG"
 
 ---
-## [View Website ](https://www.blossomedu.org "Blossom School Website")
+# [View Website ](https://www.blossomedu.org "Blossom School Website")
