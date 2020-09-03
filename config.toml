@@ -59,7 +59,7 @@ email = "uhunslucky@gmail.com"
 google_analitycs_id = "UA-115105183-3"
 location = "Corporation drive, dolphin estate, ikoyi, Lagos."
 logo = "/images/luckyuhuns_logo.png"
-mobile = "+2348169627988"
+mobile = "08169627988"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
