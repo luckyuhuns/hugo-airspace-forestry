@@ -13,8 +13,6 @@ information:
   info: Photoshop,Illustrator, Wordpress, Elementor Page Builder
 - label: Completed on
   info: 17th August 2020
-- label: Skills
-  info: HTML5 / PHP / CSS3
 
 ---
 ## [View Website](https://www.sleepsolutionsng,com "Sleep Solutions Website")
