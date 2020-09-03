@@ -1,26 +1,26 @@
 ---
-title: Rio Furniture
-description: this is meta description
-image: images/portfolio/work3.jpg
+title: Blossom School
+description: Website Design
+image: "/images/home_page.JPG"
 bg_image: images/featue-bg.jpg
-category: Video
+category: Image
 information:
 - label: Client
-  info: Jannie Kelonsky
+  info: Blossom School
 - label: What We Did
-  info: Website Redesign
+  info: Website Design
 - label: Tools Used
-  info: Photoshop,Illustrator
+  info: Photoshop,Illustrator, wordpress, Elementor Page Builder
 - label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
-draft: true
+  info: 17th March 2020
+- {}
+images:
+- "/images/homepage4.JPG"
+- "/images/home_page3.JPG"
+- "/images/home_page2.JPG"
 
 ---
-## Behance Website Redesign
+## Blossom School Website Design
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
