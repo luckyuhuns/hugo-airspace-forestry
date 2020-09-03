@@ -12,6 +12,7 @@ fields:
 - type: file
   name: image
   label: image
+  description: click here
 - type: file
   name: bg_image
   label: bg image
