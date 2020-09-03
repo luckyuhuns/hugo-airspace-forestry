@@ -13,6 +13,10 @@ fields:
   name: image
   label: image
   description: click here
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
 - type: file
   name: bg_image
   label: bg image
