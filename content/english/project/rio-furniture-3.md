@@ -21,7 +21,3 @@ images:
 
 ---
 ### [View Website ](https://www.blossomedu.org "Blossom School Website")
-
-![](/images/home_page2.JPG)
-
-![](/images/homepage4.JPG)
