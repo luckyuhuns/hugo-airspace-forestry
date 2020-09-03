@@ -8,6 +8,12 @@ images = []
 title = "Priscilla's Pride"
 [[information]]
 info = ""
-label = ""
+label = "Tools Used"
+[[information]]
+info = "Website Design"
+label = "What i did"
+[[information]]
+info = "Priscilla's Pride"
+label = "Client"
 
 +++
