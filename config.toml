@@ -61,7 +61,7 @@ location = "Corporation drive, dolphin estate, ikoyi, Lagos."
 logo = "/images/luckyuhuns_logo.png"
 mobile = "+2348169627988"
 [params.gmap]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
