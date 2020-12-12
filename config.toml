@@ -38,19 +38,11 @@ weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 5
 [[menu.main]]
 URL = "project"
 name = "Project"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
 [[menu.main]]
 URL = "about"
 name = "About"
