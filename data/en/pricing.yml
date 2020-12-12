@@ -4,11 +4,7 @@ pricing:
   pricing_table:
   - name: 'Basic Landing Page '
     price: 25,000 Naira
-    content: "Sliders/Banners Text block Video gallery Testimonials Accordions Forms
-      Light box Instagram feed Share/follow icons Map Product list –  •\tOnly one
-      product page will be created. •\tThe product data (images, description) will
-      be provided by the client.  •\tOnly 1 design option and 1 round of changes/updates/feedback
-      are considered."
+    content: ''
     link: "#"
     services:
     - Unlimited agents
