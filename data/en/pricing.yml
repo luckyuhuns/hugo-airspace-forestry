@@ -7,19 +7,19 @@ pricing:
     content: Great for driving sales or generating leads
     link: "#"
     services:
-    - Product list  -  Only one product page will be created. The product data (images,
-      description) will be provided by the client. Only 1 design option and 1 round
-      of changes/updates/feedback are considered.
-    - Map
+    - Text block
+    - Sliders/Banners
+    - Video gallery
+    - Light box
     - Share/follow icons
     - Instagram feed
-    - Light box
-    - Sliders/Banners
-    - Text block
-    - Video gallery
     - Testimonials
     - Accordions
     - Forms
+    - Map
+    - Product list  -  Only one product page will be created. The product data (images,
+      description) will be provided by the client. Only 1 design option and 1 round
+      of changes/updates/feedback are considered.
   - name: Premium
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
