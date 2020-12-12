@@ -1,6 +1,12 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Our Pricing
+description: this is meta description
+bg_image: images/featue-bg.jpg
+
 ---
+## starter Site
+
+* free product
+* bookmark
+* call to action
+* template
