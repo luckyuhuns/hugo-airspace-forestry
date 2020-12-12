@@ -50,6 +50,10 @@ portfolio:
     link: project
 service:
   enable: false
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
