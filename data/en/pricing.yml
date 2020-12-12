@@ -4,7 +4,7 @@ pricing:
   pricing_table:
   - name: 'Basic Landing Page '
     price: 25,000 Naira
-    content: ''
+    content: Great for driving sales or generating leads
     link: "#"
     services:
     - Product list  -  Only one product page will be created. The product data (images,
