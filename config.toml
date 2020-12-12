@@ -22,35 +22,39 @@ weight = 2
 [[menu.footer]]
 URL = "https://www.luckyuhuns.com/blog/"
 name = "Blog"
-weight = ""
+weight = 1
 [[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.footer]]
 URL = "service"
 name = "Service"
 weight = 3
 [[menu.footer]]
+URL = "project"
+name = "Project"
+weight = 2
+[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 5
 [[menu.main]]
 URL = "project"
 name = "Project"
-weight = "2"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
+URL = "service"
+name = "Service"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 author = "Lucky Uhuns"
 contact_form_action = "uhunslucky@gmail.com"
