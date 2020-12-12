@@ -7,12 +7,19 @@ pricing:
     content: ''
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Product list  -  Only one product page will be created. The product data (images,
+      description) will be provided by the client. Only 1 design option and 1 round
+      of changes/updates/feedback are considered.
+    - Map
+    - Share/follow icons
+    - Instagram feed
+    - Light box
+    - Sliders/Banners
+    - Text block
+    - Video gallery
+    - Testimonials
+    - Accordions
+    - Forms
   - name: Premium
     price: "$199"
     content: Suitable for small businesses with up to 5 employees
