@@ -70,4 +70,4 @@ mission_vision:
       been made, prototype design has been approved for production, main design project
       commences.\n"
 cta:
-  enable: true
+  enable: false
