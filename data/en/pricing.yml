@@ -43,16 +43,49 @@ pricing:
     - Video
     - Gallery
     - Testimonials
-  - name: Advance
-    price: "$299"
-    content: Suitable for large businesses with unlimited employees
-    link: "#"
+  - name: 'E-Commerce Webshop '
+    price: 90,000 Naira
+    content: Suitable fo all businesses and organisations who wants to sell a product
+      or service.
+    link: https://www.luckyuhuns.com/contact
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - 'Home page + upto 4 additional pages '
+    - 'Sliders/ banners '
+    - 'Text blocks '
+    - Video
+    - " Gallery "
+    - Testimonials
+    - 'Accordions '
+    - 'Forms '
+    - Lightbox
+    - 'Instagram feed '
+    - 'Share/Follow icons '
+    - Map
+    - 'Category list '
+    - 'Product page '
+    - 'Product Category/Attributes '
+    - " Cart "
+    - 'Checkout '
+    - Payment gateway
+    - 'Search page '
+    - 'Privacy page '
+    - 'Terms page '
+    - 'Simple/variable products '
+    - 'Image gallery '
+    - 'Upsells/Cross sells '
+    - 'Related products '
+    - 'Regular price/ Sale price '
+    - 'Stock management '
+    - 'Product Category/Attributes '
+    - 'Quick Zoom '
+    - 'Product Videos '
+    - 'Upto 5 pages will be created, the data will be provided by the client. '
+    - 'Product filters '
+    - 'Live product search '
+    - Custom designs will be created based on elementor theme by the designer and
+      sent to the client for approval
+    - "one time import will be done, provided client \nSubmits the data in a CSV template
+      (Woocommerce \nImport template) \n"
+    - Only 1 design and 1 round of changes/updates/feedback are considered.
 cta:
   enable: true
