@@ -102,6 +102,9 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
+icon = "ion-social-whatsapp-outline"
+link = "https://wa.me/message/R6ORB4DKP235K1"
+[[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/in/lucky-uhunmwangho-0524a4110"
 [[params.social]]
