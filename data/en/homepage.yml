@@ -46,7 +46,7 @@ portfolio:
     an awesome site and a shabby one."
   button:
     enable: true
-    label: See Pricing
+    label: See all Pricing
     link: pricing
 service:
   enable: false
