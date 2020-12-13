@@ -2,32 +2,24 @@
 about:
   enable: true
   image: images/profile.jpg
-  title: Hi, I'm Licky Uhuns, I strive to <br> make awesome work.
-  content: "I started out as a graphic designer, and then transitioned to web design
-    when i noticed allot of my clients wanted more than an engaging social media post.\n\nThey
-    wanted their business to look more professional. They wanted popup forms to collect
-    leads, they wanted to sell online, they wanted a blog (they've heard content marketing
-    is the future marketing), they wanted to send out newsletters too as the big brands
-    do. in all,  they wanted a home where all their marketing efforts will converge.
-    \n\nHaving racked up a good amount of years in digital designs, with a good eye
-    for layout, colour, & typography. I regularly saw a disconnect between the mobile
-    and desktop versions of most of my client's new websites. \n\nOn a desktop screen,
-    the website looks great, enough space, text can breath and colours pop. whereas
-    on mobile everything looks out of sync. Images, text, shapes are all over the
-    place.\n\nWhatever was the cause, it posed a problem for those business/organisation
-    because global mobile adoption in recent times has been on an upward trajectory.
-    more people browse the web (53%) on their phone. especially in developing countries.\n\nSo
-    the majority of the traffic to these business websites were most likely coming
-    from mobile. But their bad mobile user experience was definitely costing them
-    a good amount of business.\n\nDue to the short attention span of web users now,
-    a visitors will hit the back button the minute they are finding it difficult to
-    navigate a website with a poor layout or if they can't find important pages (like
-    Contact page). \n\nThis also has implications on the website's search engine ranking.
-    Google bots, after crawling numerous webpages that match a search query, will
-    rank webpages with better mobile user experience higher.\n\nMy passion for design
-    and the urge to solve a problem drew me into web design. \nNow teach individuals
-    and help businesses build beautiful, mobile first, and search engine friendly
-    websites."
+  title: Hi, I'm Licky Uhuns, I strive to <br> make awesome websites.
+  content: " Having racked up a good amount of years in digital designs, with a good
+    eye for layout, colour, & typography. I regularly saw a disconnect between the
+    mobile and desktop versions of most of my client's new websites. \n\nOn a desktop
+    screen, the website looks decent (enough space, important information well placed
+    on page, colours pop), whereas on mobile everything looks out of sync. Images,
+    text, shapes are all over the place. \n\nIn my opinion, this was a big problem
+    for those business/organization because global mobile adoption in recent times
+    has been on an upward trajectory. more people browse the web (53%) on their phone.
+    especially in developing countries.\n\nMajority of the traffic to these business
+    websites were most likely coming from mobile. But their bad mobile user experience
+    was definitely costing them a good amount of business.\n\nThis also has implications
+    on the website's search engine ranking. Google bots, after crawling numerous webpages
+    that match a search query, will rank webpages with better mobile user experience
+    higher.\n\nMy passion for design and the urge to solve problems drew me into web
+    design. \n6 years on i now teach individuals my best practices in web design and
+    help businesses/organizations build beautiful, mobile first, and search engine
+    friendly websites."
   button:
     enable: true
     label: Get in Touch
