@@ -22,35 +22,27 @@ weight = 2
 [[menu.footer]]
 URL = "https://www.luckyuhuns.com/blog/"
 name = "Blog"
-weight = ""
+weight = 1
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [[menu.footer]]
 URL = "project"
 name = "Project"
 weight = 2
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
+[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 4
 [[menu.main]]
 URL = "project"
 name = "Project"
-weight = "2"
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [params]
 author = "Lucky Uhuns"
 contact_form_action = "https://formspree.io/f/mgepnpky"
