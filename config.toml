@@ -53,7 +53,7 @@ name = "Contact"
 weight = 6
 [params]
 author = "Lucky Uhuns"
-contact_form_action = ""
+contact_form_action = "https://formspree.io/f/mgepnpky"
 description = ""
 email = "uhunslucky@gmail.com"
 google_analitycs_id = "UA-115105183-3"
