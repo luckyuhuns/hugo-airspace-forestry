@@ -1,6 +1,6 @@
 ---
 title: Our Pricing
-description: this is meta description
+description: ''
 bg_image: images/featue-bg.jpg
 menu:
   main:
@@ -8,9 +8,3 @@ menu:
     weight: 3
 
 ---
-## starter Site
-
-* free product
-* bookmark
-* call to action
-* template
