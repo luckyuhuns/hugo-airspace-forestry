@@ -24,7 +24,7 @@ pricing:
   - name: '5 Page Website '
     price: 50,000 Naira
     content: 'Suitable for businesses and organisations. '
-    link: "#"
+    link: https://www.luckyuhuns.com/contact
     services:
     - "•\tOnly 1 design option and 1 round of changes/updates/feedback are considered."
     - "•\tCustom designs will be created based on the Elementor theme modules by the
