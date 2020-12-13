@@ -2,18 +2,15 @@
 pricing:
   enable: true
   pricing_table:
-  - name: 'Advance WordPress SEO Integration '
-    price: 20,000 Naira
-    content: Optimizes web pages for search engine visibility.
-    link: https://www.luckyuhuns.com
+  - name: 'Website Copy '
+    price: 15,000 Naira
+    content: Profesionally written website copy
+    link: https://www.luckyuhuns.com/contact
     services:
-    - 'On-Page SEO '
-    - 'Internal Linking '
-    - 'RSS Feed on blog '
-    - 'XML Sitemap '
-    - 'FB Pixel Integration '
-    - 'Optimize Internal Pages '
-    - '2-3 Key Words '
+    - 'Page Content (Stock Images Included) '
+    - 'Relevant CTA''s '
+    - 'Testimonials (3) '
+    - 'SEO-Friendly '
   - name: 'Basic Landing Page '
     price: 25,000 Naira
     content: Great for driving sales for a single product. Products like ebooks, courses
@@ -99,5 +96,17 @@ pricing:
     - "one time import will be done, provided client \nSubmits the data in a CSV template
       (Woocommerce \nImport template) \n"
     - Only 1 design and 1 round of changes/updates/feedback are considered.
+  - name: 'Advance WordPress SEO Integration '
+    price: 20,000 Naira
+    content: Optimizes web pages for search engine visibility.
+    link: https://www.luckyuhuns.com
+    services:
+    - 'On-Page SEO '
+    - 'Internal Linking '
+    - 'RSS Feed on blog '
+    - 'XML Sitemap '
+    - 'FB Pixel Integration '
+    - 'Optimize Internal Pages '
+    - '2-3 Key Words '
 cta:
   enable: true
