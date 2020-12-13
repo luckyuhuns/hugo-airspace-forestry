@@ -6,4 +6,4 @@ description: Domain name and website hosting cost is not included in the project
 bg_image: images/featue-bg.jpg
 
 ---
-#### NOTE:
+#### 
