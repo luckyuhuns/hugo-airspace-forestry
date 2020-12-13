@@ -8,3 +8,9 @@ menu:
     weight: 4
 
 ---
+## starter Site
+
+* free product
+* bookmark
+* call to action
+* template
