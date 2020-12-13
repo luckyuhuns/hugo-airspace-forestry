@@ -2,6 +2,18 @@
 pricing:
   enable: true
   pricing_table:
+  - name: 'Advance WordPress SEO Integration '
+    price: 20,000 Naira
+    content: Optimizes web pages for search engine visibility.
+    link: https://www.luckyuhuns.com
+    services:
+    - 'On-Page SEO '
+    - 'Internal Linking '
+    - 'RSS Feed on blog '
+    - 'XML Sitemap '
+    - 'FB Pixel Integration '
+    - 'Optimize Internal Pages '
+    - '2-3 Key Words '
   - name: 'Basic Landing Page '
     price: 25,000 Naira
     content: Great for driving sales for a single product. Products like ebooks, courses
