@@ -5,7 +5,7 @@ bg_image: images/featue-bg.jpg
 menu:
   main:
     name: Pricing
-    weight: 4
+    weight: 3
 
 ---
 ## starter Site
