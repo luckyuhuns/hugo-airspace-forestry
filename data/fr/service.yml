@@ -72,7 +72,3 @@ service:
       tempor incididunt ut
 cta:
   enable: true
-menu:
-  main:
-    name: Services
-    weight: 3
