@@ -54,7 +54,7 @@ weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = "5"
 [params]
 author = "Lucky Uhuns"
 contact_form_action = "https://formspree.io/f/mgepnpky"
