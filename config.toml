@@ -36,7 +36,7 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
-URL = "https://www.luckyuhuns.com/pricing"
+URL = "pricing"
 name = "Pricing"
 weight = "3"
 [[menu.main]]
