@@ -26,10 +26,6 @@ weight = 1
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 4
-[[menu.footer]]
-URL = "service"
-name = "Service"
 weight = 3
 [[menu.footer]]
 URL = "project"
